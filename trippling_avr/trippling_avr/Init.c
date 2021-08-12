@@ -9,7 +9,7 @@
  *  @bug No know bugs.
  */
 
-#include "init.h"
+#include "Init.h"
 
 /** @brief initGpioPin
  *
